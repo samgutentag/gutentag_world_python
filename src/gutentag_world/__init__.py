@@ -1,5 +1,3 @@
-# gutentag_world/__init__.py
+# src/gutentag_world/__init__.py
 
-
-def say_hello():
-    print("Gutentag, World!")
+# This file can be left empty or used for package-level initialization
