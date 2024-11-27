@@ -5,8 +5,8 @@ from unittest.mock import patch
 # Add the src directory to the path before importing
 sys.path.insert(0, "./src")
 
-# Import the function from the correct file
-from gutentag_world.say_hello import say_hello  # Import from say_hello.py
+# Import the function directly from the package (gutentag_world)
+from gutentag_world import say_hello  # Import say_hello from the package
 
 
 class TestSayHello(unittest.TestCase):
