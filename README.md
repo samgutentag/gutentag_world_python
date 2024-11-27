@@ -11,7 +11,7 @@
 You can install the package from the source distribution:
 
 1. Clone or download the repository.
-2. Navigate to the package directory where `setup.py` is located.
+2. Navigate to the package directory where `pyproject.toml` is located.
 3. Install the package using pip:
 
 ```bash

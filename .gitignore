@@ -52,4 +52,7 @@ lib/
 
 # python package #
 ##################
+dist/
+build/
 *.egg-info/
+*.whl
